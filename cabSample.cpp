@@ -84,8 +84,8 @@ int main()
 	user.getPrefereces("Xteem");
 	// add review
 	db.addReview(2,"Nice Driving Man");
-	db.addReview(1,"Dangerous Driver Thou!!");
-	db.addReview(1,"Dangerous But Safe Thou!!");
+	db.addReview(1,"Dangerous Driver!!");
+	db.addReview(1,"best on Pollachi!!");
 	db.addReview(2,"Killer ride Man!!");
 	// user & location == driver & location
 	cout<<"---------------------"<<endl;
